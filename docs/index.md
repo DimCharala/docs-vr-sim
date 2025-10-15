@@ -9,9 +9,11 @@ This is the documentation for the VR Driving Simulator for [AVISENSE](https://av
 
 ## Basic Features
 
-* AR Windscreen with basic information and warnings
-* Interchangable weather conditions
-* AI Cars and Pedestrians
+1. AR Windscreen with basic information and warnings
+    1. Traffic Warnings
+    2. Obstacle Warnings
+2. Interchangable weather conditions
+3. AI Cars and Pedestrians
 * TBD
 
 ## Project layout
