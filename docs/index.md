@@ -13,8 +13,8 @@ This is the documentation for the VR Driving Simulator for [AVISENSE](https://av
     1. Traffic Warnings
     2. Obstacle Warnings
 2. Interchangable weather conditions
-3. AI Cars and Pedestrians
-* TBD
+3. AI Cars
+4. AI Pedestrians
 
 ## Project layout
 
