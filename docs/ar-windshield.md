@@ -33,8 +33,11 @@ While driving the user has to pay attention to the traffic laws and to traffic s
 
 This part refers mainly to static obstacles, like dips or bumps in the road. Using the same logic as with the traffic warnings, which is that the position of these should be manually places or spawned using an external server with information, they warn the driver about the obstacle and visualize the general area of the obstacle. As an example the dips require a radius of it (or at least an estimate) to visualize it using a circular warning on the ground.
 
-## Next additions
+## Next steps
 
-TBD
+* Fixing position of projected elements on VR
+* Adding more traffic signs
+* Connecting with data base
+
 
 

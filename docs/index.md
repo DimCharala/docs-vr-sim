@@ -23,4 +23,3 @@ This is the documentation for the VR Driving Simulator for [AVISENSE](https://av
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-Testing drinking :beers: after :soccer:
