@@ -40,6 +40,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.critic
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
@@ -56,4 +57,5 @@ nav:
     - AR Windshield: ar-windshield.md
     - Weather: weather.md
     - AI Cars: ai-cars.md
+    - AI Pedestrians: ai-pedestrian.md
   - Next Steps: codetest.md
