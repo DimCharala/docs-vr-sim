@@ -39,6 +39,7 @@ These are next addition to the project. Any step that is completed will be struc
 
 * {--Fixing position of projected elements on VR--}
 * Adding more traffic signs
+* Custom traffic signs
 * Connecting with data base
 
 
