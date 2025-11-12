@@ -25,7 +25,11 @@ Specifically for the visualization of the danger levels of Cars and Pedestrians 
 
 ![Forbidden traffic sign during traffic light](assets/traffic-warning-forbidden.png)
 
-While driving the user has to pay attention to the traffic laws and to traffic sign indications. Using instances of these signs to inform and warn the driver for potential speed limits, stop warnings or traffic lights. To achieve this an octree containing all the traffic warnings and the obstacle warning, which will be explained in detail in the next segment, is initialized during the start of the simulation. This octree can be updated manually if a warning is deleted or added. The position of these warnings is static, so the position of these should be manually placed or spawned using an external server with the information (and potentially websockets). 
+While driving the user has to pay attention to the traffic laws and to traffic sign indications. Using instances of these signs to inform and warn the driver for potential speed limits, stop warnings or traffic lights. To achieve this an octree containing all the traffic warnings and the obstacle warning, which will be explained in detail in the next segment, is initialized during the start of the simulation. This octree can be updated manually if a warning is deleted or added. 
+
+![Warnings Algorithm](assets/sign-visualization-algorithm.png)
+
+The position of these warnings is static, so the position of these should be manually placed or spawned using an external server with the information (and potentially websockets). 
 
 ### Obstacle Warnings
 
