@@ -30,3 +30,4 @@ These are next addition to the project. Any step that is completed will be struc
 * [Weather](weather.md) conditions to affect the cars
 * Changing lanes to avoid obstacles
 * Improve obstacle detection hitbox
+* Licensing or custom models
