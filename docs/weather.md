@@ -27,9 +27,9 @@ A night driving mode is not included yet, because there is no scene with light s
 
 ## Next Steps
 
-1. Rain state settings
-2. Night mode
-3. Potentially creating custom rain visuals.
-4. Potentially other states (snow, no streetlights)
+* Rain state settings
+* Night mode
+* Potentially creating custom rain visuals.
+* Potentially other states (snow, no streetlights)
 
 

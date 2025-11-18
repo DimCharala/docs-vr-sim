@@ -6,7 +6,7 @@ There are a lot of impovements and upgrades still needed. For more specialized n
 * Steering wheel configuration
 * Optimization of environment and of static elements
 * Addition of external database
-* Main menu
+* {--Creation of main menu--} and visual improvements in the main menu
 * Console commands for easier changes
 * Changes in height
 * Addition of scooters, bikes and (potentially) trains

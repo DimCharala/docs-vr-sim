@@ -18,7 +18,7 @@ There are multiple random points inside the map, which are assigned randomly at 
 
 These are next addition to the project. Any step that is completed will be struck through ({--example--}).
 
-* Custom low poly pedestrian models
+* Custom low poly pedestrian models (currently using some free ones, may stick with them)
 * More complex movement
 * Fix traffic light bugs
 * Spawning/despawning for more realism near the player
