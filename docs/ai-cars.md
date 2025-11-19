@@ -25,7 +25,7 @@ Traffic lights are important elements in the car logic. The traffic light consta
 These are next addition to the project. Any step that is completed will be struck through ({--example--}).
 
 * {--Implementation of speed limits--} and configuration of each road
-* Fix spline bugs
+* {--Fix major spline bugs--}, only minor tweeks left
 * Dynamic spawning/despawning of cars, to achieve larger realism near the player car
 * [Weather](weather.md) conditions to affect the cars
 * Changing lanes to avoid obstacles
