@@ -37,6 +37,12 @@ The position of these warnings is static, so the position of these should be man
 
 This part refers mainly to static obstacles, like dips or bumps in the road. Using the same logic as with the traffic warnings, which is that the position of these should be manually places or spawned using an external server with information, they warn the driver about the obstacle and visualize the general area of the obstacle. As an example the dips require a radius of it (or at least an estimate) to visualize it using a circular warning on the ground.
 
+### Exceeding Speed Limit
+
+![Speed Limit Warning](assets/speedlimit.png)
+
+Using a custom widget, which changes the speed limit text, when a user is exceeding the speed limit of the road there is a small transparent warning displayed above the steering wheel. The speed limits is always updated after a change in the speed limit in a specific road. For example leaving a 30km/h area and entering a 50km/h area, will change the warning text too.
+
 ## Next steps
 
 These are next addition to the project. Any step that is completed will be struck through ({--example--}).
@@ -44,7 +50,7 @@ These are next addition to the project. Any step that is completed will be struc
 * {--Fixing position of projected elements on VR--}
 * Adding more traffic signs
 * Custom traffic signs
-* Visualization of exceeding speed limit
+* {--Visualization of exceeding speed limit--}
 * Connecting with data base
 
 
