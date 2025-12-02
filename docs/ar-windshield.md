@@ -43,6 +43,10 @@ This part refers mainly to static obstacles, like dips or bumps in the road. Usi
 
 Using a custom widget, which changes the speed limit text, when a user is exceeding the speed limit of the road there is a small transparent warning displayed above the steering wheel. The speed limits is always updated after a change in the speed limit in a specific road. For example leaving a 30km/h area and entering a 50km/h area, will change the warning text too.
 
+### Customizing View
+
+This feature is still under development. Currently by pressing the equivalent key for each feature the driver can enable and disable the visualization of cars, pedestrians, signs or speeding limit warnings.
+
 ## Next steps
 
 These are next addition to the project. Any step that is completed will be struck through ({--example--}).
