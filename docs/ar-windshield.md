@@ -2,7 +2,7 @@
 
 This is the main feature of the application. It is a 100x24cm screen in front of the driver which displays important information for the safety of the driver. The feature works in virtual reality (VR) environment and has been tested with HITC Vive headset.
 
-![The AR Display inside the Simulation](assets/ar-windshield-description.png)
+![The AR Display inside the Simulation](assets/new-overview.png)
 
 ## Display Features
 
@@ -39,14 +39,14 @@ This part refers mainly to static obstacles, like dips or bumps in the road. Usi
 
 ### Exceeding Speed Limit
 
-![Speed Limit Warning](assets/speedlimit.png)
+![Speed Limit Warning](assets/new-speedwarning.png)
 
 Using a custom widget, which changes the speed limit text, when a user is exceeding the speed limit of the road there is a small transparent warning displayed above the steering wheel. The speed limits is always updated after a change in the speed limit in a specific road. For example leaving a 30km/h area and entering a 50km/h area, will change the warning text too.
 
 ### Colorblind Accessibility
 
-![Accessibility Off](assets/accessibility%20off.png)
-![Accessibility On](assets/accessibility%20on.png)
+![Accessibility Off](assets/AccessibilityOFF.png)
+![Accessibility On](assets/AccessibilityON.png)
 
 It is important that the AR elements of the UI screen and especially the car warning to be noticable even for people with colorblindness. For the time being a different material is used for this mode, where green is substituted with blue. There will be more palettes added for different types of colorblindness.
 
